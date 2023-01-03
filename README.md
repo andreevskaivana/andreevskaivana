@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreevskaivana
-- 👀 I’m interested in UX/UI Desing,Front-End Development,SQL
+- 👀 I’m interested in UX/UI Design,Front-End Development,SQL
 - 🌱 I’m currently learning Java Spring Boot, Vue.js
 - 📫 How to reach me ivana.andreevska25@gmail.com
 
