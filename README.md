@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andreevskaivana
-- 👀 I’m interested in UX/UI Design,Full Stack Development
-- 🌱 I’m currently learning Java Spring Boot, Vue.js
+- 👀 I’m interested in Machine Learning,Full Stack Development
 - 📫 How to reach me ivana.andreevska25@gmail.com
 
 <!---
