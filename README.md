@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreevskaivana
-- 👀 I’m interested in Machine Learning,Full Stack Development
+- 👀 I’m interested in Machine Learning,Software Development
 - 📫 How to reach me ivana.andreevska25@gmail.com
 
 <!---
